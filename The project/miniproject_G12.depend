@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1733267037 source:c:\users\pc\desktop\miniproject_g12\main.c
+	"projectfunctions.h"
+
+1732900456 c:\users\pc\desktop\miniproject_g12\projectfuctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1733309048 c:\users\pc\desktop\miniproject_g12\projectfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1733267037 source:c:\users\pc\desktop\training\miniproject_g12\main.c
+	"projectfunctions.h"
+
+1733309048 c:\users\pc\desktop\training\miniproject_g12\projectfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1733267037 source:c:\users\pc\desktop\files\training\miniproject_g12\main.c
+	"projectfunctions.h"
+
+1733309048 c:\users\pc\desktop\files\training\miniproject_g12\projectfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
